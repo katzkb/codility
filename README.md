@@ -11,3 +11,6 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 ## Lesson3
 - [FrogJmp](https://github.com/katzkb/codility/blob/master/lesson3/Q1_FrogJmp.scala) 100%
 - [PermMissingElem](https://github.com/katzkb/codility/blob/master/lesson3/Q2_PermMissingElem.scala) 100%
+
+## Lesson4
+- [PermCheck](https://github.com/katzkb/codility/blob/master/lesson4/Q1_PermCheck.scala) 100%
