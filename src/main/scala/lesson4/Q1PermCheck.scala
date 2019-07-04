@@ -1,5 +1,5 @@
 // https://app.codility.com/demo/results/trainingKJFU9M-YVC/
-object Solution {
+object Q1PermCheck {
   def solution(a: Array[Int]): Int = {
     // write your code in Scala 2.12
     val n = a.max

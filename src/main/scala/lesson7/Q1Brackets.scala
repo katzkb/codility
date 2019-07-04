@@ -1,7 +1,7 @@
+// https://app.codility.com/demo/results/trainingQP3C86-YPX/
 import scala.annotation.tailrec
 
-// https://app.codility.com/demo/results/trainingQP3C86-YPX/
-object Solution {
+object Q1Brackets {
   def solution(s: String): Int = {
     // write your code in Scala 2.12
     val matchMap = Map(

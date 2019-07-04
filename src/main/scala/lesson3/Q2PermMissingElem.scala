@@ -1,5 +1,5 @@
 // https://app.codility.com/demo/results/trainingYS4TFK-RYX/
-object Solution {
+object Q2PermMissingElem {
   def solution(a: Array[Int]): Int = {
     // write your code in Scala 2.12
     val n = a.length + 1

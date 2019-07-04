@@ -1,5 +1,5 @@
 // https://app.codility.com/demo/results/trainingJM6N8E-T4T/
-object Solution {
+object Q2MaxProductOfThree {
   def solution(a: Array[Int]): Int =  {
     // write your code in Scala 2.12
     val sortedA = a.sorted
