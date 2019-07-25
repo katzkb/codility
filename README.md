@@ -7,7 +7,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 
 ## Lesson2 - Arrays
 - OddOccurrencesInArray
-- [CyclicRotation](/src/main/scala/lesson2/Q1CyclicRotation.scala) 100%
+- [CyclicRotation](/src/main/scala/lesson2/Q2CyclicRotation.scala) 100%
 
 ## Lesson3 - Time Complexity
 - [FrogJmp](/src/main/scala/lesson3/Q1FrogJmp.scala) 100%
@@ -33,22 +33,22 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 - NumberOfDiscIntersections
 
 ## Lesson7 - Stacks and Queues
-- [Brackets](/src/main/scala/lesson7/Q1Brackets.scala)
+- [Brackets](/src/main/scala/lesson7/Q1Brackets.scala) 100%
 - Fish
 - Nesting
-- [StoneWall](/src/main/scala/lesson7/Q4StoneWall.scala)
+- [StoneWall](/src/main/scala/lesson7/Q4StoneWall.scala) 100%
 
 ## Lesson8 - Leader
 - Dominator
 - EquiLeader
 
 ## Lesson9 - Maximum slice problem
-- [MaxProfit](/src/main/scala/lesson9/Q1MaxProfit.scala)
+- [MaxProfit](/src/main/scala/lesson9/Q1MaxProfit.scala) 100%
 - MaxSliceSum
-- [MaxDoubleSliceSum](/src/main/scala/lesson9/Q3MaxDoubleSliceSum.scala)
+- [MaxDoubleSliceSum](/src/main/scala/lesson9/Q3MaxDoubleSliceSum.scala) 100%
 
 ## Lesson10 - Prime and composite numbers
-- [CountFactors](/src/main/scala/lesson10/Q1CountFactors.scala)
+- [CountFactors](/src/main/scala/lesson10/Q1CountFactors.scala) 100%
 - MinPerimeterRectangle
 - Peaks
 - Flags
