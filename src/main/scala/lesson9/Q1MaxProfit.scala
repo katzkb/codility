@@ -1,6 +1,6 @@
 package lesson9
 // https://app.codility.com/demo/results/training7S5XKY-QTU/
-object Solution {
+object Q1MaxProfit {
   def solution(a: Array[Int]): Int = {
     // write your code in Scala 2.12
     def f(remain: Vector[Int], min: Int, res: Int): Int = {
