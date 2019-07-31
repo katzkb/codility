@@ -50,5 +50,5 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 ## Lesson10 - Prime and composite numbers
 - [CountFactors](/src/main/scala/lesson10/Q1CountFactors.scala) 100%
 - MinPerimeterRectangle
-- Peaks
+- [Peaks](/src/main/scala/lesson10/Q3Peak.scala) 100%
 - Flags
