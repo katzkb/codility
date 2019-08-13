@@ -6,7 +6,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 - [BinaryGap](/src/main/scala/lesson1/Q1BinaryGap.scala) 100%
 
 ## Lesson2 - Arrays
-- OddOccurrencesInArray
+- [OddOccurrencesInArray](/src/main/scala/lesson2/Q1OddOccurrencesInArray.scala) 100%
 - [CyclicRotation](/src/main/scala/lesson2/Q2CyclicRotation.scala) 100%
 
 ## Lesson3 - Time Complexity
