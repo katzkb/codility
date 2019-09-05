@@ -16,7 +16,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 
 ## Lesson4 - Counting Elements
 - [PermCheck](/src/main/scala/lesson4/Q1PermCheck.scala) 100%
-- FrogRiverOne
+- [FrogRiverOne](/src/main/scala/lesson4/Q2FrogRiverOne.scala) 100%
 - [MaxCounters](/src/main/scala/lesson4/Q3MaxCounters.scala) 100%
 - MissingInteger
 
