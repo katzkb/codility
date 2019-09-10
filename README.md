@@ -21,7 +21,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 - MissingInteger
 
 ## Lesson5 - Prefix Sums
-- PassingCars
+- [PassingCars](/src/main/scala/lesson5/Q1PassingCars.scala) 100%
 - GenomicRangeQuery
 - MinAvgTwoSlice
 - CountDiv
