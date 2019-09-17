@@ -22,7 +22,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 
 ## Lesson5 - Prefix Sums
 - [PassingCars](/src/main/scala/lesson5/Q1PassingCars.scala) 100%
-- GenomicRangeQuery
+- [GenomicRangeQuery](/src/main/scala/lesson5/Q2GenomicRangeQuery.scala) 100%
 - MinAvgTwoSlice
 - CountDiv
 
