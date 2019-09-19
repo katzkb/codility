@@ -39,7 +39,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 - [StoneWall](/src/main/scala/lesson7/Q4StoneWall.scala) 100%
 
 ## Lesson8 - Leader
-- Dominator
+- [Dominator](/src/main/scala/lesson8/Q1Dominator.scala) 100%
 - EquiLeader
 
 ## Lesson9 - Maximum slice problem
