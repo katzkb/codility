@@ -1,3 +1,5 @@
+package lesson4
+
 // https://app.codility.com/demo/results/trainingKJFU9M-YVC/
 object Q1PermCheck {
   def solution(a: Array[Int]): Int = {

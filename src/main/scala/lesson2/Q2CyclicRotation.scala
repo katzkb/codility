@@ -1,3 +1,5 @@
+package lesson2
+
 // https://app.codility.com/demo/results/trainingK2WDVW-N9Y/
 object Q2CyclicRotation {
   def solution(a: Array[Int], k: Int): Array[Int] = {

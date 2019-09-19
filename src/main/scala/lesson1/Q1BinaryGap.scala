@@ -1,3 +1,5 @@
+package lesson1
+
 // https://app.codility.com/demo/results/trainingV4C9Q9-28E/
 object Q1BinaryGap {
   def solution(n: Int): Int = {

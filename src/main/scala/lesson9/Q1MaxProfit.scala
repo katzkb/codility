@@ -1,4 +1,5 @@
 package lesson9
+
 // https://app.codility.com/demo/results/training7S5XKY-QTU/
 object Q1MaxProfit {
   def solution(a: Array[Int]): Int = {

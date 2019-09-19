@@ -1,4 +1,5 @@
 package lesson8
+
 // https://app.codility.com/demo/results/trainingZSHURY-JUJ/
 object Q1Dominator {
   def solution(a: Array[Int]): Int = {

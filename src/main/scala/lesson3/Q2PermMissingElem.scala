@@ -1,3 +1,5 @@
+package lesson3
+
 // https://app.codility.com/demo/results/trainingYS4TFK-RYX/
 object Q2PermMissingElem {
   def solution(a: Array[Int]): Int = {

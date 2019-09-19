@@ -1,3 +1,5 @@
+package lesson7
+
 // https://app.codility.com/demo/results/trainingQP3C86-YPX/
 import scala.annotation.tailrec
 

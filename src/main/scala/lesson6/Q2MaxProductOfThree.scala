@@ -1,3 +1,5 @@
+package lesson6
+
 // https://app.codility.com/demo/results/trainingJM6N8E-T4T/
 object Q2MaxProductOfThree {
   def solution(a: Array[Int]): Int =  {
