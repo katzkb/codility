@@ -40,7 +40,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 
 ## Lesson8 - Leader
 - [Dominator](/src/main/scala/lesson8/Q1Dominator.scala) 100%
-- EquiLeader
+- [EquiLeader](/src/main/scala/lesson8/Q2EquiLeader.scala) 100%
 
 ## Lesson9 - Maximum slice problem
 - [MaxProfit](/src/main/scala/lesson9/Q1MaxProfit.scala) 100%
