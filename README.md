@@ -44,7 +44,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 
 ## Lesson9 - Maximum slice problem
 - [MaxProfit](/src/main/scala/lesson9/Q1MaxProfit.scala) 100%
-- MaxSliceSum
+- [MaxSliceSum](/src/main/scala/lesson9/Q2MaxSliceSum.scala) 100%
 - [MaxDoubleSliceSum](/src/main/scala/lesson9/Q3MaxDoubleSliceSum.scala) 100%
 
 ## Lesson10 - Prime and composite numbers
