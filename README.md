@@ -24,7 +24,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 - [PassingCars](/src/main/scala/lesson5/Q1PassingCars.scala) 100%
 - [GenomicRangeQuery](/src/main/scala/lesson5/Q2GenomicRangeQuery.scala) 100%
 - [MinAvgTwoSlice](/src/main/scala/lesson5/Q3MinAvgTwoSlice.scala) 100%
-- CountDiv
+- [CountDiv](/src/main/scala/lesson5/Q4CountDiv.scala) 100%
 
 ## Lesson6 - Sorting
 - [Distinct](/src/main/scala/lesson6/Q1Distinct.scala) 100%
