@@ -35,7 +35,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 ## Lesson7 - Stacks and Queues
 - [Brackets](/src/main/scala/lesson7/Q1Brackets.scala) 100%
 - [Fish](/src/main/scala/lesson7/Q2Fish.scala) 100%
-- Nesting
+- [Nesting](/src/main/scala/lesson7/Q3Nesting.scala) 100%
 - [StoneWall](/src/main/scala/lesson7/Q4StoneWall.scala) 100%
 
 ## Lesson8 - Leader
