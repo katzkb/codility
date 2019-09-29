@@ -18,7 +18,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 - [PermCheck](/src/main/scala/lesson4/Q1PermCheck.scala) 100%
 - [FrogRiverOne](/src/main/scala/lesson4/Q2FrogRiverOne.scala) 100%
 - [MaxCounters](/src/main/scala/lesson4/Q3MaxCounters.scala) 100%
-- MissingInteger
+- [MissingInteger](/src/main/scala/lesson4/Q4MissingInteger.scala) 100%
 
 ## Lesson5 - Prefix Sums
 - [PassingCars](/src/main/scala/lesson5/Q1PassingCars.scala) 100%
