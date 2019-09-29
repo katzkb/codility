@@ -29,7 +29,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 ## Lesson6 - Sorting
 - [Distinct](/src/main/scala/lesson6/Q1Distinct.scala) 100%
 - [MaxProductOfThree](/src/main/scala/lesson6/Q2MaxProductOfThree.scala) 100%
-- Triangle
+- [Triangle](/src/main/scala/lesson6/Q3Triangle.scala) 100%
 - NumberOfDiscIntersections
 
 ## Lesson7 - Stacks and Queues
