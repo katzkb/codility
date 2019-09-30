@@ -30,7 +30,7 @@ My solution for [Codility Lesson](https://app.codility.com/programmers/lessons/1
 - [Distinct](/src/main/scala/lesson6/Q1Distinct.scala) 100%
 - [MaxProductOfThree](/src/main/scala/lesson6/Q2MaxProductOfThree.scala) 100%
 - [Triangle](/src/main/scala/lesson6/Q3Triangle.scala) 100%
-- NumberOfDiscIntersections
+- [NumberOfDiscIntersections](/src/main/scala/lesson6/Q4NumberOfDiscIntersections.scala) 100%
 
 ## Lesson7 - Stacks and Queues
 - [Brackets](/src/main/scala/lesson7/Q1Brackets.scala) 100%
